@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimento3d", "Experimento3d.csproj", "{4219F4BF-50CF-62EB-8863-018CEAC7F81D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4219F4BF-50CF-62EB-8863-018CEAC7F81D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4219F4BF-50CF-62EB-8863-018CEAC7F81D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4219F4BF-50CF-62EB-8863-018CEAC7F81D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4219F4BF-50CF-62EB-8863-018CEAC7F81D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
